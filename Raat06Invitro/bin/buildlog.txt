@@ -1,0 +1,22 @@
+parsing
+flex pass 1
+flex pass 2
+Output pass
+Writing prg file: raat06invitro.prg
+
+Memory Map
+----------
+Default-segment:
+  $0801-$080d Basic
+  $1000-$203a Music8580
+  $2100-$3139 Music6581
+  $4000-$43ff Character Set
+  $4900-$4ce7 Bitmap Screen
+  $4ce8-$50cf BitmapColors
+  $5100-$57bf Sprites
+  $5800-$5fff CharSetMixed
+  $6000-$7f3f Bitmap
+  $8000-$8932 Code
+  $9000-$a757 Datablocks
+
+Writing Symbol file: raat06invitro.sym
